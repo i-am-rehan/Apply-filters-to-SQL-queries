@@ -59,7 +59,7 @@ All screenshots documenting SQL queries and their outputs are embedded in the fu
 
 ## 📄 Full Report & Documentation
 
-[📄 View Portfolio Report (Google Doc)](https://docs.google.com/document/d/1ewon9CFn6aUjInVRI2XKHJ1xMD2pbG06Su4j7LBrKMU/edit?usp=sharing)
+[📄 View Portfolio Report (Google Doc)](https://docs.google.com/document/d/1LFH21h3ShOdgFOS4NpAnLSsDhdzJ6iJWafVn7LnQ2v0/edit?usp=sharing)
 
 ---
 
